@@ -4,3 +4,4 @@ senin : sayur lodeh, ikan asin
 selasa : spagetti
 rabu : pizza
 kamis : nasi bakar
+jumat : nasi goreng
